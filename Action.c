@@ -1,7 +1,7 @@
 Action()
 {
 	
-	web_url("index.do", 
+	web_url("index.do",
 		"URL=https://amtrakuat.e-invoice.com/Passport/index.do", 
 		"TargetFrame=", 
 		"Resource=0", 
